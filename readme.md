@@ -12,13 +12,8 @@ npm install @strong-roots-capital/sorted-cartesian-product
 
 ```typescript
 import { sortedCartesianProduct } from '@strong-roots-capital/sorted-cartesian-product'
-// TODO: describe usage
+
+let array = [1, 2, 3]
+sortedCartesianProduct(array))
+//=> [[ 1, 2 ], [ 1, 3 ], [ 2, 3 ]]
 ```
-
-## Related
-
-TODO
-
-## Acknowledgments
-
-TODO
