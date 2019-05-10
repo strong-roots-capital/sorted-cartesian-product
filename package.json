@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/sorted-cartesian-product",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Cartesian product of a list including only sorted elements",
   "main": "dist/src/sorted-cartesian-product.js",
   "types": "dist/src/sorted-cartesian-product.d.ts",
