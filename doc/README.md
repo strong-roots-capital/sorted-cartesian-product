@@ -38,7 +38,7 @@ sortedCartesianProduct(array))
 
 ▸ **sortedCartesianProduct**(xs: *`ReadonlyArray`<`number`>*): `number`[][]
 
-*Defined in [sorted-cartesian-product.ts:16](https://github.com/strong-roots-capital/sorted-cartesian-product/blob/d9a9f7f/src/sorted-cartesian-product.ts#L16)*
+*Defined in [sorted-cartesian-product.ts:16](https://github.com/strong-roots-capital/sorted-cartesian-product/blob/624d998/src/sorted-cartesian-product.ts#L16)*
 
 Cartesian product of a list including only sorted elements.
 
